@@ -59,8 +59,7 @@ Theoretical calculation of optimal decision thresholds to minimize loss.
 * **Risk Minimization:** Derivation of the optimal decision threshold $x_0$ given a specific Loss Matrix ($L$).
 
 ## ⚠️ Data Availability
-**Note:** For reasons of storage, we did not upload the datasets (Faces, MNIST, etc.) to this repository. You will need to obtain the `faces.mat`, `breast_cancer_data.csv`, `fisheriris.mat`, and `mnist_*.csv` files separately and place them in the `data/` directory to run the scripts.
-
+**Note:** For reasons of storage, we did not upload the datasets (Faces, MNIST, etc.) to this repository.
 ## 🛠️ Tech Stack
 * **Languages:** MATLAB / Octave, Python.
 * **Libraries:** NumPy, Matplotlib (for Python tasks).
